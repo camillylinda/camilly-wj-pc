@@ -1,7 +1,24 @@
-h1{
-  text-align: center; color: pink; font-size: 100px; font-family: cursive; border: 100px
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sarala&display=swap');
+
+body {
+
 }
 
-.imagemcapa{
-    width: 1900px
+#outros :hover{
+color: white;
+text-decoration-color: black;
+}
+
+#a{
+	float:center;
+	margin-left: 40px;
+}
+#text{
+	text-align: centerS;
+}
+.im1{
+	position: relative;
+	border: dotted  #1E90FF;
+	border-width: 1.1vh;
+
 }
